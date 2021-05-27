@@ -1,0 +1,32 @@
+body {
+  background-color: #dddddd;
+  font-family: ubuntu;
+  margin: 25px 50px;
+  color: white;
+}
+
+.box {
+  width: 420px;
+  height: 100%;
+  background-color: black;
+  border-radius: 10px;
+  border: white 10px solid;
+  margin: 35px auto;
+  padding: 50px;
+}
+
+.pic {
+  width: 90%;
+}
+.icon {
+  position: relative;
+  top: 60px;
+}
+.white {
+  color: black;
+  position: absolute;
+  right: 500px;
+  border: blue solid 2px;
+  border-radius: 50%;
+  top: 20px;
+}
